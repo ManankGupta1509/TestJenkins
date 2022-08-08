@@ -1,0 +1,15 @@
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\bin\Debug\net6.0\JenkinAssignment1.exe
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\bin\Debug\net6.0\JenkinAssignment1.deps.json
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\bin\Debug\net6.0\JenkinAssignment1.runtimeconfig.json
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\bin\Debug\net6.0\JenkinAssignment1.dll
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\bin\Debug\net6.0\JenkinAssignment1.pdb
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.csproj.AssemblyReference.cache
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.AssemblyInfoInputs.cache
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.AssemblyInfo.cs
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.csproj.CoreCompileInputs.cache
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.dll
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\refint\JenkinAssignment1.dll
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.pdb
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\JenkinAssignment1.genruntimeconfig.cache
+C:\JPMC\JPMC_CODEBASE\C_Sharp\JenkinAssignment1\obj\Debug\net6.0\ref\JenkinAssignment1.dll
